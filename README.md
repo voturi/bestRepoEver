@@ -1,4 +1,4 @@
 # bestRepoEver
 SF Trailhead Lab
 
-This project is about how to use Git Flow with Salesforce. 
+This excercise  is about how to leverage  Git Flow with Salesforce. 
